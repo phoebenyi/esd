@@ -8,7 +8,7 @@ pip install -r requirements.txt
 python3 app.py
 ```
 
-To shut down service
+To shut down service:
 ```bash
 deactivate
 ```
@@ -24,7 +24,7 @@ Get all posts from specific user:
 GET localhost:3000/<userId>
 ```
 
-Upload post
+Upload post:
 ```bash
 POST localhost:3000/upload
 ```
